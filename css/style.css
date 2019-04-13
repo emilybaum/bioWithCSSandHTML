@@ -13,26 +13,29 @@ header {
 h1 {
     color: #eee;
     font-size: 28px;
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
 }
 
 h2 {
     font-sizE: 24px;
     margin: auto;
+    padding: 5px;
 }
 
 #main-bio {
     float: left;
-    width: 70%;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    margin-left: 25px;
-    margin-right: 25px;
+    width: 65%;
+    margin-left: 1%;
 }
 
 #contact-info {
     float: left;
     width: 30%;
     line-height: 1.5;
+    margin-left: 1%;
 }
 
 a {
@@ -42,8 +45,6 @@ a {
 #bio-image {
     float: left;
     width: 200px;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    margin-left: 25px;
-    margin-right: 25px;
+    padding: 10px;
+
 }
